@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>DVTConsoleDebuggerInputTextColor</key>
-	<string>0</string>
+	<string>7</string>
 	<key>DVTConsoleDebuggerInputTextFont</key>
 	<string>font_bold</string>
 	<key>DVTConsoleDebuggerOutputTextColor</key>
-	<string>0</string>
+	<string>7</string>
 	<key>DVTConsoleDebuggerOutputTextFont</key>
 	<string>font_regular</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
@@ -15,27 +15,27 @@
 	<key>DVTConsoleDebuggerPromptTextFont</key>
 	<string>font_bold</string>
 	<key>DVTConsoleExectuableInputTextColor</key>
-	<string>0</string>
+	<string>7</string>
 	<key>DVTConsoleExectuableInputTextFont</key>
 	<string>font_regular</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
-	<string>0</string>
+	<string>7</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
 	<string>font_bold</string>
 	<key>DVTConsoleTextBackgroundColor</key>
 	<string>0</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
-	<string>0</string>
+	<string>7</string>
 	<key>DVTConsoleTextSelectionColor</key>
 	<string>6</string>
 	<key>DVTDebuggerInstructionPointerColor</key>
 	<string>10</string>
 	<key>DVTSourceTextBackground</key>
-	<string>7</string>
-	<key>DVTSourceTextBlockDimBackgroundColor</key>
-	<string>8</string>
-	<key>DVTSourceTextInsertionPointColor</key>
 	<string>0</string>
+	<key>DVTSourceTextBlockDimBackgroundColor</key>
+	<string>0</string>
+	<key>DVTSourceTextInsertionPointColor</key>
+	<string>7</string>
 	<key>DVTSourceTextInvisiblesColor</key>
 	<string>14</string>
 	<key>DVTSourceTextSelectionColor</key>
@@ -49,9 +49,9 @@
 		<key>xcode.syntax.comment</key>
 		<string>8</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>10</string>
-		<key>xcode.syntax.comment.doc.keyword</key>
 		<string>12</string>
+		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>10</string>
 		<key>xcode.syntax.identifier.class</key>
 		<string>4</string>
 		<key>xcode.syntax.identifier.class.system</key>
@@ -77,11 +77,11 @@
 		<key>xcode.syntax.identifier.variable.system</key>
 		<string>12</string>
 		<key>xcode.syntax.keyword</key>
-		<string>5</string>
+		<string>8</string>
 		<key>xcode.syntax.number</key>
-		<string>13</string>
+		<string>7</string>
 		<key>xcode.syntax.plain</key>
-		<string>0</string>
+		<string>7</string>
 		<key>xcode.syntax.preprocessor</key>
 		<string>8</string>
 		<key>xcode.syntax.string</key>
